@@ -2,7 +2,7 @@
 
 ## Module 6 Challenge
 
-The purpose of this exercise was to leverage multiple Python functions to 
+The purpose of this exercise was to leverage multiple Python functions to:
 - generate random latitude and longitude coordinates
 - use the citipy module to identify the cities closest to the random latitude and longitude coordinates
 - retrieve weather data for each city via an OpenWeatherMap.org API call
